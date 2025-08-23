@@ -2,7 +2,7 @@ FlipOS
 
 The OS that don’t play, built by Flip.
 
-I started this project a year ago as a Python-based prototype that acted like an OS—but let’s be real, it wasn’t a real OS. Now, with FlipOS 1.7.2, I’m taking it fully off the leash: a 32-bit, from-scratch operating system, built independently with zero Linux influence. This is FlipOS energy—modular, lightweight, and made for hackers, coders, and tinkerers who want full control.
+I started this project a year ago as a Python-based prototype that acted like an OS—but let’s be real, it wasn’t a real OS. Now, with FlipOS 1.7.2, I’m taking it fully off the leash: an ARM-Based, from-scratch operating system, built independently with zero Linux influence. This is FlipOS energy—modular, lightweight, and made for hackers, coders, and tinkerers who want full control.
 
 
 ---
